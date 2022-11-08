@@ -1,6 +1,7 @@
 # React Stars Game
 A quick project put together for a the basics of React including custom hooks.
 
+**Link to Project:** https://react-stars-game.vercel.app/
 
 ![img](https://i.imgur.com/M5NA8yb.gif)
 
